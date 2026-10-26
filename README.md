@@ -19,9 +19,14 @@ Actualmente curso el tercer semestre de **Ingeniería de Sistemas** y continúo 
   Stack: React, TypeScript, Express, Prisma y PostgreSQL. [Ver demo](https://planneron.vercel.app).
 
 - **[XTREMEGYM](https://github.com/ErikSneyPlata/XTREMEGYM)** — aplicación web para la operación de un gimnasio: clientes, membresías, asistencia, inventario, ventas y reportes.  
-  Stack: React, Express y Supabase. [Ver demo](https://xtremegym-eight.vercel.app).
+  Stack: React, Express y Supabase. [Ver demo](https://xtremegymbga.vercel.app).
 
 - **[CampusClass](https://github.com/ErikSneyPlata/CampusClass)** — aplicación en Python para el seguimiento académico de estudiantes, con almacenamiento basado en JSON.
+
+## Experiencia
+
+- **Desarrollador freelance · Full stack** — 2022–2023. Desarrollo de aplicaciones y funcionalidades web, principalmente con Node.js; también trabajé con Java y Spring en menor medida.
+- **Soporte al cliente · Atento** — 2021–2022. Atención y soporte sobre servicios tecnológicos, incluidos internet y telefonía.
 
 ## Formación
 
@@ -32,7 +37,7 @@ Actualmente curso el tercer semestre de **Ingeniería de Sistemas** y continúo 
 
 ## Portafolio
 
-Consulta mi [portafolio web](https://portafolio-zeta-gilt.vercel.app) y los proyectos enlazados para ver demos y código.
+Consulta mi [portafolio web](https://eriksneyplata.vercel.app) y los proyectos enlazados para ver demos y código.
 
 ---
 
