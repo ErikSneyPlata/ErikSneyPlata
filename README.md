@@ -25,8 +25,11 @@ Actualmente curso el tercer semestre de **Ingeniería de Sistemas** y continúo 
 
 ## Experiencia
 
+Mi experiencia en soporte fortaleció mi capacidad para diagnosticar problemas, orientar a usuarios y comunicar soluciones con claridad; hoy aplico ese enfoque al desarrollo de software.
+
+- **Soporte Amazon S&D · Teleperformance** — 2023–2024. Atención a trabajadores de Amazon con consultas sobre rutas, direcciones y uso de la aplicación, ayudando a resolver situaciones que podían afectar las entregas.
 - **Desarrollador freelance · Full stack** — 2022–2023. Desarrollo de aplicaciones y funcionalidades web, principalmente con Node.js; también trabajé con Java y Spring en menor medida.
-- **Soporte al cliente · Atento** — 2021–2022. Atención y soporte sobre servicios tecnológicos, incluidos internet y telefonía.
+- **Soporte al cliente · Atento** — 2021–2022. Atención y soporte sobre servicios de internet, telefonía y tecnología.
 
 ## Formación
 
