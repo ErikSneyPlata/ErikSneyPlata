@@ -6,9 +6,9 @@
 
 Construyo aplicaciones web conectando interfaces, APIs y datos. Me enfoco en resolver necesidades reales con soluciones claras y bien estructuradas.
 
-[![Portafolio](https://img.shields.io/badge/✳_Portafolio-171E1F?style=for-the-badge&logo=vercel&logoColor=D8EF67)](https://eriksneyplata.vercel.app)
-[![GitHub](https://img.shields.io/badge/⌘_GitHub-171E1F?style=for-the-badge&logo=github&logoColor=F2F2E9)](https://github.com/ErikSneyPlata)
-[![Correo](https://img.shields.io/badge/✉_Correo-171E1F?style=for-the-badge&logo=gmail&logoColor=FF9E91)](mailto:eplata391@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portfolio-171E1F?style=for-the-badge&logo=vercel&logoColor=D8EF67)](https://eriksneyplata.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-171E1F?style=for-the-badge&logo=github&logoColor=F2F2E9)](https://github.com/ErikSneyPlata)
+[![Correo](https://img.shields.io/badge/Email-171E1F?style=for-the-badge&logo=gmail&logoColor=FF9E91)](mailto:eplata391@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-171E1F?style=for-the-badge&logo=whatsapp&logoColor=70D9D0)](https://wa.me/573209114670)
 
 </div>
